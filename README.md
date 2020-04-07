@@ -4,6 +4,9 @@
 
 是服务器订阅的地址
 
+`客户端` 文件夹里面有 Win Android Mac 的客户端  可以下载 
+IOS客户端推荐使用 Shadow rocket 自行百度[抱歉]  
+
 For WIN PC:  
 在桌面右下角状态栏里面,找到小飞机上,右击->服务器订阅->服务器订阅设置->ADD->输入:   
 https://raw.githubusercontent.com/HR4912/MyVPS/master/你的姓名全拼首字母大写.txt   
@@ -39,4 +42,9 @@ For Android ShadowsocksR Apk
 For Shadowrocket IOS  
 右上角加号 -> 类型 -> 选择 ' Subscribe ' -> URL 填入 你的订阅地址[如上] -> 右上角 完成  
 回到软件首页 -> 等待刷新 -> 找到 对应的地址 -> 点击  
-抱歉没有Iphone手机,不熟悉操作  
+
+For Mac  
+同理 找到添加订阅的按钮 -> 输入订阅地址 -> 更新订阅 
+
+
+

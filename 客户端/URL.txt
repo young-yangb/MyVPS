@@ -1,5 +1,8 @@
+For Androd
 https://github.com/shadowsocksrr/shadowsocksr-android/releases
+For Windows
 https://github.com/Anankke/SSRR-Windows/releases
+For Mac
 https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
-
+Sum:
 https://tlanyan.me/shadowsockr-shadowsocksr-shadowsocksrr-clients/
